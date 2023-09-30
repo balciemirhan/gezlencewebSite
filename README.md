@@ -2,7 +2,7 @@
 
 ## I created this work using html, css, bootstrap and js.
 
-### You can see the Linkedin [Linkedin](https://www.linkedin.com/in/emirhan-balci/ "Linkedin.profile")
+### You can see the [Linkedin](https://www.linkedin.com/in/emirhan-balci/ "Linkedin.profile")
 
 ![Screenshot 2023-09-30 161311](https://github.com/balciemirhan/gezlencewebSite/assets/116453429/0ca1207a-1377-4104-a1c6-ae73d8a976c5)
 
