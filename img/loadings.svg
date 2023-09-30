@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" style="margin: auto; background: rgb(241, 242, 243); display: block; shape-rendering: auto;" width="280" height="250" preserveAspectRatio="xMidYMid">
+<style type="text/css">
+  text {
+    text-anchor: middle; font-size: 80px; opacity: 0;
+  }
+</style>
+<g style="transform-origin:140px 125px;transform:scale(1)">
+<g transform="translate(140,125)">
+  <g transform="translate(0,0)"><g class="path" style="transform: rotateY(0deg); transform-origin: -14.08px -0.751997px; animation: 1s linear -0.44s infinite normal forwards running flip-h-b040cb20-53a1-4363-9fb3-1ceef0e5b23c;"><path d="M6.56-1.04L6.56-1.04L6.56-1.04Q4.88-2.72 4.88-5.12L4.88-5.12L4.88-5.12Q4.88-7.52 6.56-9.24L6.56-9.24L6.56-9.24Q8.24-10.96 10.64-10.96L10.64-10.96L10.64-10.96Q13.04-10.96 14.76-9.24L14.76-9.24L14.76-9.24Q16.48-7.52 16.48-5.12L16.48-5.12L16.48-5.12Q16.48-2.72 14.76-1.04L14.76-1.04L14.76-1.04Q13.04 0.64 10.64 0.64L10.64 0.64L10.64 0.64Q8.24 0.64 6.56-1.04" fill="#39c6d7" stroke="none" stroke-width="none" transform="translate(-24.760009765625,4.408002319335938)" style="fill: rgb(57, 198, 215);"></path></g><g class="path" style="transform: rotateY(0deg); transform-origin: 4.87999px -0.751997px; animation: 1s linear -0.22s infinite normal forwards running flip-h-b040cb20-53a1-4363-9fb3-1ceef0e5b23c;"><path d="M25.52-1.04L25.52-1.04L25.52-1.04Q23.84-2.72 23.84-5.12L23.84-5.12L23.84-5.12Q23.84-7.52 25.52-9.24L25.52-9.24L25.52-9.24Q27.20-10.96 29.60-10.96L29.60-10.96L29.60-10.96Q32-10.96 33.72-9.24L33.72-9.24L33.72-9.24Q35.44-7.52 35.44-5.12L35.44-5.12L35.44-5.12Q35.44-2.72 33.72-1.04L33.72-1.04L33.72-1.04Q32 0.64 29.60 0.64L29.60 0.64L29.60 0.64Q27.20 0.64 25.52-1.04" fill="#39c6d7" stroke="none" stroke-width="none" transform="translate(-24.760009765625,4.408002319335938)" style="fill: rgb(57, 198, 215);"></path></g><g class="path" style="transform: rotateY(0deg); transform-origin: 23.84px -0.751997px; animation: 1s linear 0s infinite normal forwards running flip-h-b040cb20-53a1-4363-9fb3-1ceef0e5b23c;"><path d="M44.48-1.04L44.48-1.04L44.48-1.04Q42.80-2.72 42.80-5.12L42.80-5.12L42.80-5.12Q42.80-7.52 44.48-9.24L44.48-9.24L44.48-9.24Q46.16-10.96 48.56-10.96L48.56-10.96L48.56-10.96Q50.96-10.96 52.68-9.24L52.68-9.24L52.68-9.24Q54.40-7.52 54.40-5.12L54.40-5.12L54.40-5.12Q54.40-2.72 52.68-1.04L52.68-1.04L52.68-1.04Q50.96 0.64 48.56 0.64L48.56 0.64L48.56 0.64Q46.16 0.64 44.48-1.04" fill="#39c6d7" stroke="none" stroke-width="none" transform="translate(-24.760009765625,4.408002319335938)" style="fill: rgb(57, 198, 215);"></path></g></g>
+</g>
+</g>
+<style id="flip-h-b040cb20-53a1-4363-9fb3-1ceef0e5b23c" data-anikit="">@keyframes flip-h-b040cb20-53a1-4363-9fb3-1ceef0e5b23c
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.1909,0.4373,0.4509,0.7454);
+    transform: rotateY(0deg);
+  }
+  30% {
+    animation-timing-function: cubic-bezier(0.128,0.2315,0.9704,0.8632);
+    transform: rotateY(153.72deg);
+  }
+  50% {
+    animation-timing-function: cubic-bezier(0.5788,0.3001,0.5613,0.6784);
+    transform: rotateY(180deg);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.1545,0.4929,0.6089,0.9373);
+    transform: rotateY(238.68deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}</style></svg>
